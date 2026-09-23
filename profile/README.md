@@ -75,7 +75,7 @@ Yes. Each person can keep an LTspice folder of their own.
 **Where does LTspice Simulator fit best?**  
 LTspice Simulator fits best beside the notes for the circuit you are actually drawing.
 
-![LTspice Simulator](https://www.analog.com/en/_/media/analog/en/design-center/ltspice/spotlight-ltspice-essentials.jpg)
+![LTspice Simulator](https://vlsiarchitect.com/wp-content/uploads/2025/02/generated-image-1024x683.png)
 
 ---
 
